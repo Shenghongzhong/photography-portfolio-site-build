@@ -13,3 +13,13 @@
  
  I do have a question on the files actually. Obviously, it's pre-built css file. What are we going to do if we build it from the scratch?
  
+ 
+ # The story of HyperText Markup Language (HTML)
+ 
+ In the late 1980s, there was a laboratory called CERN in Switzerland. Tim Berners-Lee, a British scientist, was working there and invented this markup language.
+ Probably he couldn't bear with the inaccessability of miscommunication between each machine. So he invented this language as well as a browser. 
+ Then, he can read documentation anywhere.
+ image
+ 
+ 
+ 
